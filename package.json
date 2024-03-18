@@ -1,5 +1,5 @@
 {
-  "homepage": "https://tudinh411.github.io",
+  "homepage":"https://tudinh411.github.io",
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,8 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "build": "vite build",
-    "deploy": "gh-pages -d dist",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "deploy":"gh-pages -d dist"
   },
   "dependencies": {
     "@fontsource/outfit": "^5.0.8",
