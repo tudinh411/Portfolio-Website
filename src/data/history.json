@@ -1,0 +1,29 @@
+[
+  {
+    "role": "CS Teaching Assistant",
+    "organisation": "GSU",
+    "startDate": "Aug, 2022",
+    "endDate": "Jul, 2023",
+    "experiences": ["Enhanced Java course content with new object-oriented programming modules, targeting code redundancy.", "Conducted coaching sessions for Java and Python."],
+    "imageSrc": "history/gsu-icon.png"
+  },
+  {
+    "role": "CS, Math, Physics Tutor",
+    "organisation": "GSU",
+    "startDate": "Jan, 2022",
+    "endDate": "Jun, 2022",
+    "experiences": ["Provided personalized academic support to students, fostering understanding and mastery of complex concepts.", "Offered personalized instruction tailored to individual student needs."],
+    "imageSrc": "history/gsu-icon.png"
+  },
+  {
+    "role": "Technical Interview Prep",
+    "organisation": "Codepath",
+    "startDate": "Jan, 2024",
+    "endDate": "May, 2024",
+    "experiences": [
+      "Engaged in regular pair programming sessions, fostering teamwork and cohesion.",
+      "Applied data structures and algorithms effectively to achieve significant improvements in task efficiency."
+    ],
+    "imageSrc": "history/download-removebg-preview.png"
+  }
+]

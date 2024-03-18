@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python-icon.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java-icon.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js-icon.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "jQuery",
+    "imageSrc": "skills/jquery-removebg-preview.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  }
+]
