@@ -7,7 +7,7 @@ import "@fontsource/outfit";
 import "@fontsource/roboto";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <React.StrictMode>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <App />
-  </React.StrictMode>
+  </BrowserRouter>
 );
