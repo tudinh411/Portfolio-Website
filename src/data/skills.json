@@ -28,8 +28,12 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Node.js",
     "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/expressjs-removebg-preview.png"
   },
   {
     "title": "MongoDB",

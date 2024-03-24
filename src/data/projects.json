@@ -1,34 +1,34 @@
 [
   {
-    "title": "To-do List",
+    "title": "TO-DO LIST",
     "imageSrc": "projects/project.png",
     "description": "An responsive to-do list project.",
     "skills": ["Node.js", "Express", "Bootstrap", "jQuery", "HTML", "CSS", "JavaScript"],
     "source": "https://github.com/tudinh411/To-Do-List"
   },
   {
-    "title": "Sorting Web Data",
+    "title": "SORTING WEB DATA",
     "imageSrc": "projects/project.png",
     "description": "Scraping data and creating a sorted list of 5000+ products.",
     "skills": ["Python", "Flask", "Pandas", "Beautiful Soup", "Requests", "HTML", "CSS"],
     "source": "https://github.com/tudinh411/Back-Market-Price-Tracking"
   },
   {
-    "title": "Maching Dating Site",
+    "title": "MATCHING DATA SITE",
     "imageSrc": "projects/project.png",
     "description": "A basic dating site allows users to find their perfect match based on characteristics that satisfy their expectations ",
     "skills": ["HTML", "PHP","CSS"],
     "source": "https://github.com/tudinh411/Dating-Site-"
   },
   {
-    "title": "Celestia Academy",
+    "title": "CELESTIA ACADEMY",
     "imageSrc": "projects/project.png",
     "description": "A text-based adventure game",
     "skills": ["HTML", "CSS"],
     "source": "https://github.com/tudinh411/Celestia-Academy"
   },
   {
-    "title": "Snake Game",
+    "title": "SNAKE GAME",
     "imageSrc": "projects/project.png",
     "description": "A classic snake game",
     "skills": ["Python"],
